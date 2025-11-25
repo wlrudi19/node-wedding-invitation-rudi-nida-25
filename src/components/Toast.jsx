@@ -3,7 +3,7 @@ const Toast = ({ message, show }) => {
     <div
       className={`fixed bottom-6 right-6 z-50 
         px-4 py-3 rounded-lg shadow-lg
-        bg-rose-600 text-white text-sm
+        bg-slate-600 text-white text-sm
         transition-all duration-300
         ${
           show

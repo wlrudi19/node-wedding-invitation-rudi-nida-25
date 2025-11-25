@@ -39,7 +39,7 @@ const Countdown = () => {
           alt="Background Silhouette"
           className="w-full h-full object-cover opacity-50"
         />
-        <div className="absolute inset-0 bg-violet-600 bg-opacity-60"></div>
+        <div className="absolute inset-0 bg-slate-600 bg-opacity-60"></div>
       </div>
 
       {/* 🔥 Countdown Content */}

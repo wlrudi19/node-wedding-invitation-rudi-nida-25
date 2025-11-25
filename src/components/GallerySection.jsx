@@ -19,7 +19,7 @@ const GallerySection = ({ theme = {} }) => {
     return (
         <section className={`${theme.bg} py-16 px-4`}>
             <div className="max-w-6xl mx-auto">
-                <h2 className="font-great-vibes text-4xl text-center text-violet-600 mb-12">Memories & Moments</h2>
+                <h2 className="font-great-vibes text-4xl text-center text-slate-600 mb-12">Memories & Moments</h2>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
                     {galleryImages.map((img, index) => (

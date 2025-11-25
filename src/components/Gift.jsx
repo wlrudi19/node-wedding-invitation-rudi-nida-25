@@ -31,7 +31,7 @@ const Gift = () => {
   return (
     <section className="py-16 px-4 bg-white">
       <div className="max-w-2xl mx-auto">
-        <h2 className="font-great-vibes text-4xl text-center text-violet-600 mb-6">
+        <h2 className="font-great-vibes text-4xl text-center text-slate-600 mb-6">
           Digital Envelope
         </h2>
 
@@ -41,14 +41,14 @@ const Gift = () => {
 
         <div className="space-y-6">
           {bankAccounts.map((account, index) => (
-            <div key={index} className="bg-violet-50 p-6 rounded-lg shadow-sm">
+            <div key={index} className="bg-slate-50 p-6 rounded-lg shadow-sm">
               <div className="flex items-center gap-3 mb-3">
                 <img
                   src={account.logo}
                   alt={account.bank}
                   className="w-12 h-12 object-contain"
                 />
-                <h3 className="text-xl font-semibold text-violet-600">{account.bank}</h3>
+                <h3 className="text-xl font-semibold text-slate-600">{account.bank}</h3>
               </div>
 
               <div className="space-y-2">
@@ -65,7 +65,7 @@ const Gift = () => {
 
                   <button
                     onClick={() => copyToClipboard(account.number)}
-                    className="text-violet-600 hover:text-violet-700 flex items-center gap-1 text-sm"
+                    className="text-slate-600 hover:text-slate-700 flex items-center gap-1 text-sm"
                   >
                     <FaCopy /> Copy
                   </button>
