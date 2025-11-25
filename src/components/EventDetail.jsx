@@ -17,33 +17,33 @@ const EventDetail = () => {
   ];
 
   return (
-    <section className="py-16 px-4 bg-rose-50">
+    <section className="py-16 px-4 bg-violet-50">
       <div className="max-w-4xl mx-auto">
-        <h2 className="font-great-vibes text-4xl text-center text-rose-600 mb-12">Event Details</h2>
+        <h2 className="font-great-vibes text-4xl text-center text-violet-600 mb-12">Event Details</h2>
 
         <div className="flex justify-center">
           {events.map((event, index) => (
             <div key={index} className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow max-w-md mx-auto">
-              <h3 className="text-xl font-semibold text-rose-600 mb-4">{event.title}</h3>
+              <h3 className="text-xl font-semibold text-violet-600 mb-4">{event.title}</h3>
 
               <div className="space-y-3">
                 <div className="flex items-start gap-3">
-                  <FaCalendarAlt className="text-rose-400 mt-1 flex-shrink-0" />
+                  <FaCalendarAlt className="text-violet-400 mt-1 flex-shrink-0" />
                   <p>{event.date}</p>
                 </div>
 
                 <div className="flex items-start gap-3">
-                  <FaClock className="text-rose-400 mt-1 flex-shrink-0" />
+                  <FaClock className="text-violet-400 mt-1 flex-shrink-0" />
                   <p>{event.time}</p>
                 </div>
 
                 <div className="flex items-start gap-3">
-                  <FaMapMarkerAlt className="text-rose-400 mt-1 flex-shrink-0" />
+                  <FaMapMarkerAlt className="text-violet-400 mt-1 flex-shrink-0" />
                   <p>{event.location}</p>
                 </div>
               </div>
 
-              {/* <button className="mt-6 px-4 py-2 bg-rose-600 text-white rounded-full hover:bg-rose-700 transition-all flex items-center gap-2 mx-auto">
+              {/* <button className="mt-6 px-4 py-2 bg-violet-600 text-white rounded-full hover:bg-violet-700 transition-all flex items-center gap-2 mx-auto">
                 <FaMapMarkerAlt /> View Location
               </button> */}
               <button
@@ -52,7 +52,7 @@ const EventDetail = () => {
                     window.open("https://maps.app.goo.gl/uEModFVSvyyqNzqMA", "_blank");
                   }
                 }}
-                className="mt-6 px-4 py-2 bg-rose-600 text-white rounded-full hover:bg-rose-700 transition-all flex items-center gap-2 mx-auto"
+                className="mt-6 px-4 py-2 bg-violet-600 text-white rounded-full hover:bg-violet-700 transition-all flex items-center gap-2 mx-auto"
               >
                 <FaMapMarkerAlt /> View Location
               </button>

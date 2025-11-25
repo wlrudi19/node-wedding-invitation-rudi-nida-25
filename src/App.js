@@ -8,6 +8,7 @@ import LoveStory from './components/LoveStory';
 import RSVP from './components/RSVP';
 import Gift from './components/Gift';
 import ThankYouSection from './components/ThankYouSection';
+import GallerySection from './components/GallerySection';
 import Footer from './components/Footer';
 import Route from './components/Route';
 import musicFile from "../src/assets/images/music.mp3";
@@ -64,6 +65,7 @@ function App() {
         <div id="Couple"><CoupleProfile /></div>
         <div id="Countdown"><Countdown /></div>
         <div id="Events"><EventDetail /></div>
+        <div id="Gallery"><GallerySection /></div>
         {/* <div id="Story"><LoveStory /></div> */}
         {/* <div id="RSVP"><RSVP /></div> */}
         <div id="Gift"><Gift /></div>

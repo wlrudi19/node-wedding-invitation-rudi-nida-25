@@ -10,12 +10,12 @@ const CoupleProfile = () => {
   return (
     <section className="py-16 px-4 bg-white" id="couple">
       <div className="max-w-6xl mx-auto">
-        <h2 className="font-great-vibes text-4xl text-center text-rose-600 mb-12">The Bride & Groom</h2>
+        <h2 className="font-great-vibes text-4xl text-center text-violet-600 mb-12">The Bride & Groom</h2>
         
         <div className="flex flex-col md:flex-row items-center justify-center gap-12">
           {/* Bride */}
           <div className="text-center">
-            <div className="rounded-full overflow-hidden border-4 border-rose-400 w-48 h-48 mx-auto mb-6 shadow-lg">
+            <div className="rounded-full overflow-hidden border-4 border-violet-400 w-48 h-48 mx-auto mb-6 shadow-lg">
               <img 
                 src={putuft}
                 alt="Putu - Mempelai Wanita" 
@@ -44,11 +44,11 @@ const CoupleProfile = () => {
             )} */}
           </div>
           
-          <div className="font-great-vibes text-4xl text-rose-600 hidden md:block"> </div>
+          <div className="font-great-vibes text-4xl text-violet-600 hidden md:block"> </div>
           
           {/* Groom */}
           <div className="text-center">
-            <div className="rounded-full overflow-hidden border-4 border-rose-400 w-48 h-48 mx-auto mb-6 shadow-lg">
+            <div className="rounded-full overflow-hidden border-4 border-violet-400 w-48 h-48 mx-auto mb-6 shadow-lg">
               <img 
                 src={madeft} 
                 alt="Made  - Mempelai Pria" 

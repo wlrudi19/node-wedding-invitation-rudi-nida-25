@@ -51,7 +51,7 @@ const Hero = ({ playMusic }) => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3, duration: 0.8 }}
-          className="inline-block px-8 py-3 bg-rose-600 text-white rounded-full hover:bg-rose-700 transition-all shadow-xl font-semibold"
+          className="inline-block px-8 py-3 bg-violet-600 text-white rounded-full hover:bg-violet-700 transition-all shadow-xl font-semibold"
         >
           Open Invitation
         </motion.button>

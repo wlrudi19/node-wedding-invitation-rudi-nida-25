@@ -10,7 +10,7 @@ const Route = () => {
         to={item}
         smooth={true}
         duration={500}
-        className="text-rose-600 hover:text-rose-700 cursor-pointer font-semibold text-sm md:text-base"
+        className="text-violet-600 hover:text-violet-700 cursor-pointer font-semibold text-sm md:text-base"
       >
         {item}
       </Link>

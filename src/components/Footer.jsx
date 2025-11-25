@@ -8,7 +8,7 @@ const Footer = ({ togglePlay, isPlaying }) => {
         <div className="flex justify-center gap-6 mb-4">
           <a
             href="https://instagram.com"
-            className="text-rose-600 hover:text-rose-700 text-xl"
+            className="text-violet-600 hover:text-violet-700 text-xl"
           >
             <FaInstagram />
           </a>
@@ -16,7 +16,7 @@ const Footer = ({ togglePlay, isPlaying }) => {
           {/* === MUSIC BUTTON === */}
           <button
             onClick={togglePlay}
-            className={`text-xl ${isPlaying ? "text-rose-600" : "text-gray-400"}`}
+            className={`text-xl ${isPlaying ? "text-violet-600" : "text-gray-400"}`}
           >
             {isPlaying ? <FaPause /> : <FaMusic />}
           </button>
@@ -24,7 +24,7 @@ const Footer = ({ togglePlay, isPlaying }) => {
 
         {/* Developer Credit */}
         <p className="text-gray-600 text-sm flex justify-center items-center gap-1">
-          Develop with <FaHeart className="text-rose-500" /> by wlrudi19
+          Develop with <FaHeart className="text-violet-500" /> by wlrudi19
         </p>
 
         {/* Template Credit */}
