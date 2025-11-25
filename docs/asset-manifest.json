@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/node-wedding-invitation-rudi-nida-25/static/css/main.77285883.css",
+    "main.js": "/node-wedding-invitation-rudi-nida-25/static/js/main.72d5c32d.js",
+    "static/js/453.84f26a22.chunk.js": "/node-wedding-invitation-rudi-nida-25/static/js/453.84f26a22.chunk.js",
+    "static/media/bersama-3.jpg": "/node-wedding-invitation-rudi-nida-25/static/media/bersama-3.745d2e529b3b7e920dbf.jpg",
+    "static/media/nida-3.jpg": "/node-wedding-invitation-rudi-nida-25/static/media/nida-3.a038ed11116f5d630e1a.jpg",
+    "static/media/bersama-4.jpg": "/node-wedding-invitation-rudi-nida-25/static/media/bersama-4.aa86b92bc2eca3205822.jpg",
+    "static/media/bersama-2.jpg": "/node-wedding-invitation-rudi-nida-25/static/media/bersama-2.1949e7a20f8a06ede3fb.jpg",
+    "static/media/rudi-2.jpg": "/node-wedding-invitation-rudi-nida-25/static/media/rudi-2.1efdb20ba6d739258346.jpg",
+    "static/media/music.mp3": "/node-wedding-invitation-rudi-nida-25/static/media/music.bb0c4ab49720327c715c.mp3",
+    "index.html": "/node-wedding-invitation-rudi-nida-25/index.html",
+    "main.77285883.css.map": "/node-wedding-invitation-rudi-nida-25/static/css/main.77285883.css.map",
+    "main.72d5c32d.js.map": "/node-wedding-invitation-rudi-nida-25/static/js/main.72d5c32d.js.map",
+    "453.84f26a22.chunk.js.map": "/node-wedding-invitation-rudi-nida-25/static/js/453.84f26a22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77285883.css",
+    "static/js/main.72d5c32d.js"
+  ]
+}
