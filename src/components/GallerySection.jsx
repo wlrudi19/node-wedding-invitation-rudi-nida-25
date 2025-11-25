@@ -31,13 +31,13 @@ const GallerySection = ({ theme = {} }) => {
                             transition={{ duration: 0.6, delay: index * 0.15 }}
                             viewport={{ once: true }}
                         >
-                           <div className="overflow-hidden rounded-xl shadow-lg cursor-pointer aspect-square">
-  <img
-    src={img}
-    alt={`Couple moment ${index + 1}`}
-    className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
-  />
-</div>
+                            <div className="overflow-hidden rounded-xl shadow-lg cursor-pointer aspect-square">
+                                <img
+                                    src={img}
+                                    alt={`Couple moment ${index + 1}`}
+                                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                                />
+                            </div>
 
                         </motion.div>
                     ))}

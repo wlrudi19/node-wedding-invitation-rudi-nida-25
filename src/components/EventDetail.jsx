@@ -6,13 +6,13 @@ const EventDetail = () => {
       title: "Wedding Ceremony & Reception",
       date: "Saturday, 13 December 2025",
       time: "08:00 - 15:00 WIB",
-      location: "Bride’s Residence, Banjarnegara, Jawa Tengah"
+      location: "Dsn. Selagara, Ds. Kutayasa, Kec. Madukara, Banjarnegara, Jawa Tengah"
     },
     {
       title: "Guest Arrival & Greeting (Terima Tamu)",
       date: "Thursday - Friday, 11 - 12 December 2025",
       time: "09:00 - 20:00 WIB",
-      location: "Bride’s Residence, Banjarnegara, Central Java"
+      location: "Dsn. Selagara, Ds. Kutayasa, Kec. Madukara, Banjarnegara, Jawa Tengah"
     }
   ];
 
