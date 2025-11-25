@@ -1,11 +1,11 @@
 import React, { useState, useRef } from 'react';
 import Hero from './components/Hero';
-import Quote from './components/Quote';
+// import Quote from './components/Quote';
 import CoupleProfile from './components/CoupleProfile';
 import EventDetail from './components/EventDetail';
 import Countdown from './components/Countdown';
-import LoveStory from './components/LoveStory';
-import RSVP from './components/RSVP';
+// import LoveStory from './components/LoveStory';
+// import RSVP from './components/RSVP';
 import Gift from './components/Gift';
 import ThankYouSection from './components/ThankYouSection';
 import GallerySection from './components/GallerySection';
