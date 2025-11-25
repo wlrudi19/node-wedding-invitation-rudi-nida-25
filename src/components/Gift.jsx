@@ -10,13 +10,13 @@ const Gift = () => {
   const bankAccounts = [
     {
       bank: "SeaBank",
-      logo: "/seabank.png",
+      logo: `${process.env.PUBLIC_URL}/seabank.png`,
       name: "Annida Fitria Maruf",
       number: "901238960509",
     },
     {
       bank: "Mandiri",
-      logo: "/mandiri.png",
+      logo: `${process.env.PUBLIC_URL}/mandiri.png`,
       name: "Rudi Wildantoro Lesmana",
       number: "1340022612864",
     },
