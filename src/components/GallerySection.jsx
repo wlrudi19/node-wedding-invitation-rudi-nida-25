@@ -5,9 +5,9 @@ import { motion } from "framer-motion";
 import img2 from "../assets/images/bersama-8.jpg";
 import img3 from "../assets/images/bersama-10.jpg";
 import img4 from "../assets/images/bersama-9.jpg";
-import img5 from "../assets/images/bersama-6.jpg";
-import img6 from "../assets/images/bersama-7.jpg";
-import img7 from "../assets/images/bersama-5.jpg";
+import img5 from "../assets/images/bersama-7.jpg";
+import img6 from "../assets/images/bersama-5.jpg";
+import img7 from "../assets/images/bersama-11.jpg";
 
 const galleryImages = [img2, img3, img4, img5, img6, img7];
 
