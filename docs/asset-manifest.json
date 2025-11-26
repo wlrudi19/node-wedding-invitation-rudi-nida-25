@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.e13e07df.css",
-    "main.js": "/static/js/main.05cf53bb.js",
+    "main.js": "/static/js/main.06615dd4.js",
     "static/js/453.84f26a22.chunk.js": "/static/js/453.84f26a22.chunk.js",
-    "static/media/bersama-3.jpg": "/static/media/bersama-3.745d2e529b3b7e920dbf.jpg",
-    "static/media/bersama-4.jpg": "/static/media/bersama-4.aa86b92bc2eca3205822.jpg",
-    "static/media/bersama-2.jpg": "/static/media/bersama-2.1949e7a20f8a06ede3fb.jpg",
-    "static/media/bersama-13.jpg": "/static/media/bersama-13.6cfaf4cf21102fa5bb39.jpg",
-    "static/media/bersama-8.jpg": "/static/media/bersama-8.31890e2004dbc1531d53.jpg",
-    "static/media/bersama-10.jpg": "/static/media/bersama-10.d954fbdb332f5e7e9b95.jpg",
-    "static/media/bersama-9.jpg": "/static/media/bersama-9.934cfb079229aea74bac.jpg",
-    "static/media/bersama-6.jpg": "/static/media/bersama-6.9284280408b9dc4039bc.jpg",
-    "static/media/bersama-7.jpg": "/static/media/bersama-7.3fb160c3037e63f6afa3.jpg",
-    "static/media/bersama-5.jpg": "/static/media/bersama-5.2558b02731dedad796a5.jpg",
     "static/media/music.mp3": "/static/media/music.bb0c4ab49720327c715c.mp3",
+    "static/media/bersama-3.jpg": "/static/media/bersama-3.2ebf347e7679cbe47aed.jpg",
+    "static/media/bersama-8.jpg": "/static/media/bersama-8.80d6a2e4cfd575e5071d.jpg",
+    "static/media/bersama-9.jpg": "/static/media/bersama-9.86bd3c0de9f941e0d790.jpg",
+    "static/media/bersama-10.jpg": "/static/media/bersama-10.a800d22039bd84919716.jpg",
     "static/media/nida-4.jpg": "/static/media/nida-4.e70926f29e7d3a5340ec.jpg",
     "static/media/rudi-3.jpg": "/static/media/rudi-3.1890c9ac1c489e4e6195.jpg",
+    "static/media/bersama-6.jpg": "/static/media/bersama-6.4ef8d97380902b4a5019.jpg",
+    "static/media/bersama-7.jpg": "/static/media/bersama-7.09878263e828d7ff6c4d.jpg",
+    "static/media/bersama-13.jpg": "/static/media/bersama-13.9148152fe4960c0f26ff.jpg",
+    "static/media/bersama-4.jpg": "/static/media/bersama-4.ecc08659602ddc20b1a0.jpg",
+    "static/media/bersama-5.jpg": "/static/media/bersama-5.fc94b4eda2e20728bfb8.jpg",
+    "static/media/bersama-2.jpg": "/static/media/bersama-2.762d6ac6f61b8f8a975b.jpg",
     "index.html": "/index.html",
     "main.e13e07df.css.map": "/static/css/main.e13e07df.css.map",
-    "main.05cf53bb.js.map": "/static/js/main.05cf53bb.js.map",
+    "main.06615dd4.js.map": "/static/js/main.06615dd4.js.map",
     "453.84f26a22.chunk.js.map": "/static/js/453.84f26a22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e13e07df.css",
-    "static/js/main.05cf53bb.js"
+    "static/js/main.06615dd4.js"
   ]
 }
