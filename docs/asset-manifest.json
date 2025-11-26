@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e13e07df.css",
-    "main.js": "/static/js/main.06615dd4.js",
+    "main.js": "/static/js/main.dac5a82c.js",
     "static/js/453.84f26a22.chunk.js": "/static/js/453.84f26a22.chunk.js",
     "static/media/music.mp3": "/static/media/music.bb0c4ab49720327c715c.mp3",
     "static/media/bersama-3.jpg": "/static/media/bersama-3.2ebf347e7679cbe47aed.jpg",
     "static/media/bersama-8.jpg": "/static/media/bersama-8.80d6a2e4cfd575e5071d.jpg",
     "static/media/bersama-9.jpg": "/static/media/bersama-9.86bd3c0de9f941e0d790.jpg",
+    "static/media/bersama-11.jpg": "/static/media/bersama-11.81aeb6200df6415d5a56.jpg",
     "static/media/bersama-10.jpg": "/static/media/bersama-10.a800d22039bd84919716.jpg",
     "static/media/nida-4.jpg": "/static/media/nida-4.e70926f29e7d3a5340ec.jpg",
     "static/media/rudi-3.jpg": "/static/media/rudi-3.1890c9ac1c489e4e6195.jpg",
-    "static/media/bersama-6.jpg": "/static/media/bersama-6.4ef8d97380902b4a5019.jpg",
     "static/media/bersama-7.jpg": "/static/media/bersama-7.09878263e828d7ff6c4d.jpg",
     "static/media/bersama-13.jpg": "/static/media/bersama-13.9148152fe4960c0f26ff.jpg",
     "static/media/bersama-4.jpg": "/static/media/bersama-4.ecc08659602ddc20b1a0.jpg",
@@ -18,11 +18,11 @@
     "static/media/bersama-2.jpg": "/static/media/bersama-2.762d6ac6f61b8f8a975b.jpg",
     "index.html": "/index.html",
     "main.e13e07df.css.map": "/static/css/main.e13e07df.css.map",
-    "main.06615dd4.js.map": "/static/js/main.06615dd4.js.map",
+    "main.dac5a82c.js.map": "/static/js/main.dac5a82c.js.map",
     "453.84f26a22.chunk.js.map": "/static/js/453.84f26a22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e13e07df.css",
-    "static/js/main.06615dd4.js"
+    "static/js/main.dac5a82c.js"
   ]
 }
