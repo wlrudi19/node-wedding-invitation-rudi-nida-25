@@ -2,10 +2,10 @@
   "short_name": "Bruna Wedding Invitation",
   "name": "Wedding Invitation - Nida & Rudi",
   "icons": [
-    {
-      "src": "our-favicon.ico",
+     {
+      "src": "our-icon.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
       "src": "android-chrome-192x192.png",
